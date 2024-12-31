@@ -112,4 +112,12 @@ body {
     &:hover {
         background-color: rgb(177, 163, 16);
     }
+}.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer p{
+    font-weight: bold;
+    margin: 20px;
 }
